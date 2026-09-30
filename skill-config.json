@@ -1,0 +1,16 @@
+{
+  "skill_name": "护肤助理",
+  "version": "2.6.0",
+  "author": "Shane Chen",
+  "canonical_repository_url": "https://github.com/shaneisme2010/skincare-assistant-skill",
+  "update_check": {
+    "maximum_frequency": "monthly",
+    "notify_only_when_update_available": true
+  },
+  "photo_review": {
+    "default_weeks_min": 8,
+    "default_weeks_max": 12
+  },
+  "license": "Custom Non-Commercial License",
+  "commercial_use": "Requires prior written authorization from Shane Chen"
+}
