@@ -1,37 +1,23 @@
-# 护肤助理 Skincare Assistant
+# 护肤助理 v2.8.1 Draft 8
 
-一个基于**皮肤状态、现有护肤品和循证资料**提供个性化护肤建议的 AI Skill。
+本分支为预发布分发快照，供外部试用。完整流程、视觉要求、存档与提醒规则已内置。
 
-## 能做什么
+## 快速开始
 
-- AI 皮肤状态评估与可视化报告
-- 分析已有护肤品并制定早晚护理方案
-- 根据完整成分表判断产品是否适合
-- 优先使用已经拥有的产品，减少重复购买
-- 根据用户所在国家或地区推荐可购买的产品
-- 定期复评，根据皮肤变化调整方案
-- 支持单独询问某款护肤品是否适合自己
+从[版本发布页](https://github.com/shaneisme2010/skincare-assistant-skill/releases/tag/v2.8.1-draft8)下载 `SKINCARE_ASSISTANT_CHATGPT.md`，上传到ChatGPT后发送：
 
-## 开始使用
+> 请加载我上传的「护肤助理」Skill，并直接开始。
 
-将本 Skill 导入你使用的 AI，或让 AI 读取 `SKILL.md`。
+支持网页读取时，也可使用[固定版本单文件链接](https://raw.githubusercontent.com/shaneisme2010/skincare-assistant-skill/v2.8.1-draft8/SKINCARE_ASSISTANT_CHATGPT.md)。无法读取链接时上传文件即可。加载表示在当前聊天使用；不保证永久安装或自动取得联网、出图、存储和提醒工具。
 
-支持具备自定义指令、Skill 或知识库能力的主流 AI 平台。图片分析、联网检索、提醒等功能取决于具体 AI 平台的能力。
+## 文件
 
-## 安全说明
+- `SKINCARE_ASSISTANT_CHATGPT.md`：自包含的ChatGPT分发版。
+- `SKILL.md`与`references/`：支持按需读取技能文件的环境使用。
+- `INSTALL.md`：加载、更新与继续档案的方法。
+- `RELEASE_NOTES.md`：本版变更与验证范围。
+- `SHA256SUMS.txt`：两个发布附件的校验值。
 
-护肤助理用于日常护肤管理，不提供皮肤疾病的诊断或治疗。
+结构检查已通过；真实对话、出图与跨聊天恢复仍需试用验证。软件问题请通过[Issues](https://github.com/shaneisme2010/skincare-assistant-skill/issues)反馈，不包含照片、私人档案或完整聊天。
 
-如果发现疑似皮肤疾病、感染或其他需要医学评估的异常，会停止相关护肤建议并提示用户前往正规医疗机构就诊。
-
-## 作者
-
-**Shane Chen**
-
-## License
-
-免费用于个人、学习、研究及其他非商业用途。
-
-**未经作者明确授权，禁止商业使用。**
-
-详细许可请参阅 `LICENSE-NONCOMMERCIAL.txt`。
+作者：Shane Chen。按[非商业许可](LICENSE-NONCOMMERCIAL.txt)使用。
