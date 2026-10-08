@@ -1,0 +1,20 @@
+{
+  "package": "skincare-chat-starter",
+  "version": "0.1.0-rc.1",
+  "canonical_repository_url": "https://github.com/shaneisme2010/skincare-assistant-skill",
+  "manifest_path": "chat-starter/manifest.json",
+  "release_tag_prefix": "skincare-chat-starter-v",
+  "release_channel": "public-test",
+  "entry_file": "开始使用.txt",
+  "style_file": "style-reference-neutral.png",
+  "license_file": "LICENSE-NONCOMMERCIAL.txt",
+  "display_name": "护肤报告与方案图片｜聊天加载包",
+  "zip_asset_name": "skincare-chat-starter-0.1.0-rc.1.zip",
+  "zip_url": "https://github.com/shaneisme2010/skincare-assistant-skill/releases/download/skincare-chat-starter-v0.1.0-rc.1/skincare-chat-starter-0.1.0-rc.1.zip",
+  "zip_sha256": "cb0b9e3012c35a5da293749e4db16220b5bc26e5566c0777f487c77538f63b59",
+  "source_baseline": {
+    "package": "skincare-chat-images",
+    "version": "0.6.0-rc.20",
+    "release_tag": "skincare-chat-images-v0.6.0-rc.20"
+  }
+}
