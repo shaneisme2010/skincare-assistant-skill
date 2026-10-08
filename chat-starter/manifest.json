@@ -1,0 +1,14 @@
+{
+  "package": "skincare-chat-starter",
+  "version": "0.1.0-rc.6",
+  "canonical_repository_url": "https://github.com/shaneisme2010/skincare-assistant-skill",
+  "manifest_path": "chat-starter/manifest.json",
+  "release_tag_prefix": "skincare-chat-starter-v",
+  "release_channel": "public-test",
+  "entry_file": "SKILL.md",
+  "style_file": null,
+  "license_file": "SKILL.md",
+  "file_asset_name": "SKILL.md",
+  "file_url": "https://github.com/shaneisme2010/skincare-assistant-skill/releases/download/skincare-chat-starter-v0.1.0-rc.6/SKILL.md",
+  "file_sha256": "67d7495b7faea48ef69670b3bd27ae7e2ad1186453a53919b497375f96043db3"
+}
