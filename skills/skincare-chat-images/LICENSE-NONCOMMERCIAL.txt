@@ -1,0 +1,20 @@
+护肤助理 Universal Skill — 非商业许可
+
+Copyright © 2026 Shane Chen (public pseudonym of the copyright holder). All rights reserved except as expressly permitted below.
+
+允许：
+1. 个人、学习、研究、测试及其他非商业用途使用本 Skill。
+2. 为上述非商业目的复制和修改。
+3. 非商业再分发，但必须保留作者署名、本许可文件和原有免责声明。
+
+禁止（除非事先获得 权利人的明确书面授权）：
+1. 出售、出租、收费分发本 Skill 或其实质性衍生版本。
+2. 将本 Skill 集成到商业产品、商业 SaaS、付费应用、付费智能体、付费咨询或订阅服务中。
+3. 以本 Skill 或其实质性衍生版本直接或间接获取商业收入。
+4. 移除或误导性修改作者署名、许可限制或免责声明。
+
+使用商业 AI 平台本身并不自动构成对本 Skill 的商业使用；个人在付费 AI 服务中以非商业目的运行本 Skill仍被允许。
+
+商业授权：请通过本 Skill 官方 GitHub 仓库提供的联系或 Issues 渠道联系权利人。
+
+本许可不是 OSI 定义的开源许可证，也不应被标注为 MIT、Apache、GPL 或 Creative Commons。

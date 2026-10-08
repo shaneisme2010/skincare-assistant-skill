@@ -1,0 +1,20 @@
+{
+  "package": "skincare-chat-images",
+  "version": "0.6.0-rc.20",
+  "canonical_repository_url": "https://github.com/shaneisme2010/skincare-assistant-skill",
+  "repository_skill_path": "skills/skincare-chat-images",
+  "release_tag_prefix": "skincare-chat-images-v",
+  "release_channel": "public-test",
+  "update_check": {
+    "enabled_by_default": true,
+    "trigger": "on_use",
+    "minimum_interval_seconds": 604800,
+    "manual_check_bypasses_interval": true,
+    "first_use": "check_once_only_if_private_state_can_be_persisted",
+    "independent_background_task": false,
+    "include_prereleases": true,
+    "notify_only_when_update_available": true,
+    "automatic_installation": false
+  },
+  "license": "Custom Non-Commercial License; see LICENSE-NONCOMMERCIAL.txt"
+}
