@@ -1,0 +1,4 @@
+interface:
+  display_name: "护肤报告与方案图片"
+  short_description: "固定问卷与来源核验后，原生生成报告和方案双图；支持旅行、局部修订及明确虚构测试"
+  default_prompt: "使用 $skincare-chat-images，完成必要问卷和研究后，用原生图像工具生成并检查独立报告图、方案图及完整来源说明。"
